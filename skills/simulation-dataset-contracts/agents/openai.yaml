@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simulation Dataset Contracts"
+  short_description: "Simulation Dataset Contracts workflow and practical checks"
+  default_prompt: "Use $simulation-dataset-contracts to define a simulation dataset contract and leakage-safe release manifest."

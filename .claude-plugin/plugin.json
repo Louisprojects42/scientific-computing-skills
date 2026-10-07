@@ -1,0 +1,6 @@
+{
+  "name": "scientific-computing-skills",
+  "version": "0.1.0",
+  "description": "Define reproducible simulation studies, validate airfoil geometry, design dataset contracts, and evaluate surrogate models.",
+  "license": "MIT"
+}

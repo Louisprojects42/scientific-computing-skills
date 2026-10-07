@@ -1,0 +1,4 @@
+interface:
+  display_name: "Airfoil Geometry Validation"
+  short_description: "Airfoil Geometry Validation workflow and practical checks"
+  default_prompt: "Use $airfoil-geometry-validation to validate and normalize these airfoil coordinates without silently changing the shape."

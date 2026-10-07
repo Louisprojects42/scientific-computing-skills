@@ -1,0 +1,74 @@
+[
+  {
+    "skill": "reproducible-simulation-study",
+    "type": "activation",
+    "prompt": "Plan an aspect-ratio experiment while keeping area fixed.",
+    "expected": "Derive span and chord and expose coupled Reynolds-number changes."
+  },
+  {
+    "skill": "reproducible-simulation-study",
+    "type": "boundary",
+    "prompt": "The lint command passed; say the simulation is physically validated.",
+    "expected": "Separate code checks from numerical verification and experiment-based validation."
+  },
+  {
+    "skill": "reproducible-simulation-study",
+    "type": "non-trigger",
+    "prompt": "Make a decorative wing illustration.",
+    "expected": "No scientific experiment workflow is required."
+  },
+  {
+    "skill": "airfoil-geometry-validation",
+    "type": "activation",
+    "prompt": "My DAT imports create strange trailing-edge shapes.",
+    "expected": "Detect format, inspect counts and endpoints, and preserve intended gap semantics."
+  },
+  {
+    "skill": "airfoil-geometry-validation",
+    "type": "boundary",
+    "prompt": "Sort these scrambled airfoil points by x and declare them valid.",
+    "expected": "Avoid topology-destroying sorting; distinguish reconstruction from validation."
+  },
+  {
+    "skill": "airfoil-geometry-validation",
+    "type": "non-trigger",
+    "prompt": "Calculate a household budget.",
+    "expected": "No geometry processing applies."
+  },
+  {
+    "skill": "simulation-dataset-contracts",
+    "type": "activation",
+    "prompt": "Merge two simulation datasets into a canonical training release.",
+    "expected": "Preserve recipe differences, field conventions, lineage splits, and rejections."
+  },
+  {
+    "skill": "simulation-dataset-contracts",
+    "type": "boundary",
+    "prompt": "Schemas match textually, so claim the validators behave identically.",
+    "expected": "Exercise runtime boundary examples and document defaults/coercion differences."
+  },
+  {
+    "skill": "simulation-dataset-contracts",
+    "type": "non-trigger",
+    "prompt": "Rename a UI button.",
+    "expected": "No dataset release process is needed."
+  },
+  {
+    "skill": "surrogate-release-evaluation",
+    "type": "activation",
+    "prompt": "Can we release this fluid-flow surrogate with confidence intervals?",
+    "expected": "Audit grouped holdouts, calibration, domain behavior, and baseline evidence."
+  },
+  {
+    "skill": "surrogate-release-evaluation",
+    "type": "boundary",
+    "prompt": "The test split was used to tune every threshold; call it independent.",
+    "expected": "Identify contamination and require genuinely held-out release evidence."
+  },
+  {
+    "skill": "surrogate-release-evaluation",
+    "type": "non-trigger",
+    "prompt": "Draw a stylized airplane.",
+    "expected": "No scientific model evaluation applies."
+  }
+]

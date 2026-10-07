@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reproducible Simulation Study"
+  short_description: "Reproducible Simulation Study workflow and practical checks"
+  default_prompt: "Use $reproducible-simulation-study to define a simulation study with clear variable roles and reproducible runs."

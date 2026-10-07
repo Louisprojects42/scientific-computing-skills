@@ -1,0 +1,4 @@
+interface:
+  display_name: "Surrogate Release Evaluation"
+  short_description: "Surrogate Release Evaluation workflow and practical checks"
+  default_prompt: "Use $surrogate-release-evaluation to evaluate this surrogate against a baseline and a declared release domain."
